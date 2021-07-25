@@ -1,0 +1,26 @@
+
+Front end
+link Video
+https://www.youtube.com/watch?v=1tRLveSyNz8&t=8443s
+
+
+commands for front end
+
+sudo apt-get upgrade
+ sudo npm install -g @angular/cli
+
+ng new mean-course
+
+ng serve  // start at 4200 port
+
+
+
+----install matieral  ----failed here....
+
+npm install --save @angular/material
+or
+ng add @angular/material  // already include it 
+
+unlock angular lib of material
+
+==== bootstrapMoudule has a link to AppModule  under app folder
